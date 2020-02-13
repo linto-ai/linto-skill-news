@@ -1,0 +1,27 @@
+{
+  "name": "@linto-ai/node-red-linto-news",
+  "version": "0.1.0",
+  "description": "Linto skill that get news around the world",
+  "author": "yhoupert@linagora.com",
+  "license": "AGPL-3.0-or-later",
+  "node-red": {
+    "nodes": {
+      "linto-skill-news": "linto-skill-news.js"
+    }
+  },
+  "dependencies": {
+    "debug": "^4.1.1",
+    "@linto-ai/linto-components": "^0.0.1",
+    "xml2json": "^0.11.2"
+  },
+  "homepage": "https://linto.ai/",
+  "directories": {
+    "linto": "linto"
+  },
+  "keywords": [
+    "linto",
+    "node-red",
+    "skill",
+    "news"
+  ]
+}

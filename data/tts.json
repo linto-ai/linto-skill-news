@@ -1,0 +1,20 @@
+{
+  "en-US": {
+    "say": {
+      "title": "Here the main title : ",
+      "error_news_title": "Could not retrieve the news data",
+      "error_lang_not_supported" : "This language is not supported for this web-site",
+      "error_unknown_type": "Unknown news type",
+      "error_api" : "Could not retrieve the news data"
+    }
+  },
+  "fr-FR": {
+    "say": {
+      "title": "Voici les grands titres : ",
+      "error_news_title": "Impossible de récupérer les informations",
+      "error_lang_not_supported" : "Cette langue n'est pas supporter pour ce site internet",
+      "error_unknown_type": "Impossible de trouver le type de nouvelle",
+      "error_api" : "Impossible de récupérer les informations"
+    }
+  }
+}
