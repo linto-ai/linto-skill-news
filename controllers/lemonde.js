@@ -12,6 +12,7 @@ module.exports = async function (type, lang) {
     throw new LanguageNotSupportedException('This Language is not supported by LeMonde' + lang)
   }
   let newsTitle = getNewsTitles(type)
+
   let newsRss = await this.request.get(`${lemondeData.api}/${newsTitle}/${lemondeData.rss}`)
   let news = readNewsTitle(newsRss)
   return news
