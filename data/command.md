@@ -4,71 +4,37 @@
 - donne-moi les news des [sports](type_sport)
 - quelles sont les informations [nationales](type_national)
 - quelle est l'actualité du jour
-- quelles sont les grands titres des informations aujourd'hui
+- quelles sont les grands titres du jour
 - quelles sont les informations [sportives](type_sport)
 - quelles sont les informations [politiques](type_politique)
 - quelles sont les informations [musicales](type_music)
 - quelles sont les informations [internationaux](type_international)
 - quelles sont les informations [nationaux](type_national)
-- quelle est l'information [nationale](type_national)
-- quelle est l'information [internationale](type_international)
-- quelle est l'information [sportive](type_sport)
-- quelle est l'information [musicale](type_music)
-- donne-moi l'information [sportive](type_sport)
-- donne-moi l'information [internationale](type_international)
-- donne-moi l'information [musicale](type_music)
-- donne-moi l'information [nationale](type_national)
-- donne-moi l'information [politique](type_politique)
-- actualité [politique](type_politique)
-- actualité [national](type_national)
+- donne-moi l'actualité [politique](type_politique) du jour
+- quelle est l'actualité [nationale](type_national) du jour
 - actualité [musical](type_music)
-- actualités du [sport](type_sport)
-- quels sont les titres sur la [société](type_societe) ?
-- quels sont les titres de la [société](type_societe) ?
-- quels sont les titres du [monde](type_world) ?
-- quels sont les titres de [planète](type_world) ?
-- donne-moi le titre [informatique](type_pixel).
-- quelles sont les actualités [informatiques](type_pixel) ?
-- donne-moi les événements [informatiques](type_pixel).
-- quelles sont les activités [culturelles](type_cultural) ?
-- quelles sont les actualités [culturelles](type_cultural) ?
-- événement [musical](type_musical).
-- actualités sur le [sport](type_sport).
-- événement [sportif](type_sport).
-- événements [musicaux](type_musical).
-- événements [internationaux](type_international).
-- quels sont les événements [internationaux](type_international) ?
-- actualités [sportives](type_sport).
-- actualité [musicale](type_musical).
-- quels sont les actualités [musicales](type_musical) ?
-- quelle est l'actualité ?
-- quelle est l'actualité [sportive](type_sport) ?
-- quels sont les titres de [sport](type_sport) ?
-- donne-moi les titres [informatiques](type_pixel)
-- donne-moi les titres [planète](type_world)
-- donne-moi les titres [culturels](type_cultural)
-- quels sont les titres [politiques](type_politique)
-- quels sont les titres [internationaux](type_international)
-- quels sont les titres [sportifs](type_sport)
-- quels sont les titres [informatiques](type_pixel)
-- quelle est l'actualité [sportive](type_sport)
-- donne-moi les actualités du [sport](type_sport)
-- quels sont les articles
-- quels sont les gros titres
-- donne-moi les gros titres
-- quelles sont les rubriques
-- quelle est l'actualité
-- quelles sont les actualités
-- actualité [sportive](type_sport)
-- actualité [culturelle](type_cultural)
+- quelles sont les actualités du [sport](type_sport)
+- quels sont les titres sur la [société](type_societe)
+- quels sont les titres du [monde](type_world)
+- quels sont les titres de [planète](type_world)
+- quelles sont les actualités [informatiques](type_pixel)
+- donne-moi les événements [informatiques](type_pixel)
+- quelles sont les activités [culturelles](type_cultural)
+- quelles sont les actualités [culturelles](type_cultural)
+- c'est quoi les événements [musicaux](type_musical) du moment
+- quels sont les événements [sportifs](type_sport)
+- quels sont les événements [internationaux](type_international)
+- quelle est l'actualité [sportive](type_sport) du moment
+- quelle est l'actualité [sportive](type_sport) du jour
+- quels sont les gros titres du jour
+- donne-moi les gros titres du moment
+- quelles sont les rubriques de l'actualité
+- quelle est l'actualité du jour
+- quelles sont les actualités du jour
+- quelle est l'actualité du moment
+- quelles sont les actualités du moment
 - Quelles sont les infos du [monde](type_international)
-- quelle est l’actualité du jour
-- quels sont les grands titres des informations aujourd’hui
-- actualité [musicale](type_music)
-- actualité [politique](type_politique)
-- actualité [mondiale](type_international)
-- actualité [sportive](type_sport)
-- actualité [nationale](type_national)
+- quels sont les grands titres des informations aujourd'hui
 
 ##intent|news|en
 - what are the [sport](type_sport) news
@@ -101,4 +67,4 @@
 - what's the [politics](type_politique) Updates
 - what are the [national](type_national) Updates
 - what are the current News
-- give me the [national](type_national)  headlines updates
+- give me the [national](type_national) headlines updates
