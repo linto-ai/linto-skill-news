@@ -67,4 +67,4 @@
 - what's the [politics](type_politique) Updates
 - what are the [national](type_national) Updates
 - what are the current News
-- give me the [national](type_national)  headlines updates
+- give me the [national](type_national) headlines updates
