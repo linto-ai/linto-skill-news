@@ -17,7 +17,8 @@ module.exports = function (RED) {
         lintoSkillNews: {
           value: {
             template: template.settupSkillTemplate(PALETTE_NODE_NAME),
-            command: LintoSkillNode.loadFile(__dirname, 'data/command.md')
+            command: LintoSkillNode.loadFile(__dirname, 'data/command.md'),
+            description: LintoSkillNode.loadFile(__dirname, 'data/description.json')
           },
           exportable: true
         }
